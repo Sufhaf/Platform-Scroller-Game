@@ -2,7 +2,7 @@
 
 This repository contains the **documentation** for my A-Level Computer Science NEA project, where I developed a **2D platform scroller game** using **C# and .NET**. Unfortunately, the game files are no longer accessible, but this document outlines the **development process, key features, and evaluation** of the project.  
 
-Please use the table of contents on the PDF document as it a long document. All the code screenshots are near the bottom if you wish to see it. Download the PDF document by clicking on the file and then navigating to the "..." on the top right and download it.
+Please use the table of contents on the PDF document as it a long document. All the code screenshots are near the bottom if you wish to see it. 
 ---
 
 ## 📌 About the Project  
@@ -32,5 +32,4 @@ This project was a **valuable learning experience** that helped me develop skill
 ---
 
 ## 📝 How to View the Documentation  
-1. **Download** the Word document from the repository  
-2. Open it using **Microsoft Word** or **Google Docs**  
+Download the PDF document by clicking on the file and then navigating to the "..." on the top right and download it. 
